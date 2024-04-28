@@ -5,6 +5,7 @@ Welcome to the "Stickers Always Shown" mod repository for Balatro! This mod ensu
 ## Features
 
 - **Always Visible Stickers:** Stickers on the Jokers are always displayed, enhancing gameplay visibility and strategy.
+- **Eternal's stickers moved to the left:** Eternal's stickers were moved to the left due to not conflict with completions stickers.
 - **Aid for Completionist++ Achievement:** Makes it easier for players to track necessary stickers, facilitating achievement completion.
 
 ## Installation
