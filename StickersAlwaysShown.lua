@@ -8,11 +8,6 @@
 ------------MOD CODE -------------------------
 
 function SMODS.INIT.StickersAlwaysShown()
-    local cbdeck_mod = SMODS.findModByID("StickersAlwaysShown")
-    local sprite_stickers = SMODS.Sprite:new("stickers", cbdeck_mod.path, "stickers.png", 71, 95, "asset_atli")
-    
-    sprite_stickers:register()
-
     --- Enable achivements, you can comment it if you dont want them.
     G.F_NO_ACHIEVEMENTS = false
 end
