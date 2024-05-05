@@ -14,18 +14,27 @@ end
 
 local CardDrawRef = Card.draw
 function Card:draw(layer)
-    if(self.ability.set == 'Joker' and G.STAGE == 2 and self.facing == 'front' ) then
-
-        local center = getCenterKeyByJokerName(self.ability.name)
-        local sticker = get_joker_win_sticker(center)
-        self.sticker = sticker
+    if(self.ability.set == 'Joker' and G.STAGE == 2 ) then
+        if(self.facing == 'front') then
+            self.sticker = GetSticker(self)
+        end
+        if(self.facing == 'back') then
+            self.sticker = nil
+        end
     end
     local t = CardDrawRef(self, layer)
    
     return(t)
 end
 
-function getCenterKeyByJokerName(name)
+function GetSticker(card)
+    if(card.sticker) then return card.sticker end
+        local center = GetCenterKeyByJokerName(card.ability.name)
+        local sticker = get_joker_win_sticker(center)
+        return sticker
+end
+
+function GetCenterKeyByJokerName(name)
     for key, joker in pairs(G.P_CENTERS) do
         if joker.name == name then
             return joker
