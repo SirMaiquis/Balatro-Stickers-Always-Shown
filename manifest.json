@@ -1,9 +1,7 @@
 {
-    "name": "StickersAlwaysShown",
-    "version_number": "1.2.1",
-    "website_url": "https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown",
-    "description": "The jokers stickers are always shown!",
-    "dependencies": [
-        "Steamopollys-Steamodded-0.9.5"
-    ]
+  "name": "StickersAlwaysShown",
+  "version_number": "1.2.1",
+  "website_url": "https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown",
+  "description": "The jokers stickers are always shown!",
+  "dependencies": ["Steamopollys-Steamodded-0.9.8"]
 }
