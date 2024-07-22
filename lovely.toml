@@ -1,0 +1,10 @@
+[manifest]
+version = "1.0.0"
+dump_lua = true
+priority = 1
+
+[[patches]] 
+[patches.copy]
+target = "main.lua"
+position = "append"
+sources = ["StickersAlwaysShown.lua"]
