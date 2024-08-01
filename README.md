@@ -24,3 +24,9 @@ With the mod installed, stickers will automatically be visible on the Jokers thr
 If you encounter any problems or have questions, please open an issue in this repository. Feedback and suggestions are always appreciated!
 
 Thank you for using or contributing to the Stickers Always Shown mod!
+
+## Contributors
+
+Special thanks to the mod contributors:
+
+- [@stupxd](https://github.com/stupxd) - v1.3: Made the mod Steamodded independent! 🚀
