@@ -1,18 +1,15 @@
-# Stickers Always Shown v1.2.1
+# Stickers Always Shown v1.3.0
 
-Adjusted to work with Balatro 1.0.1f
+The mod no longer requires Steamodded, thanks to the contribution from [@stupxd](https://github.com/stupxd). This update also includes a fix for an error with modded jokers without names.
 
 ## Updates:
-**Compatibility with Balatro 1.0.1f**: The mod has been updated to be fully compatible with the latest version of Balatro.
-**New Sticker Support**: Added functionality to ensure that the new "Rental" and "Perishable" stickers are always visible, alongside other Joker stickers. This update ensures all stickers are consistently displayed across the application.
-**Enhanced Sticker Retrieval Algorithm**: Implemented a new method to fetch and display stickers, significantly reducing memory usage. This optimization ensures that the mod performs efficiently, even under conditions where numerous stickers are present.
+**Steamodded Dependency Removed**: The mod is now independent of Steamodded, simplifying the installation process and improving compatibility.
 
 ## Bug Fixes:
-**Resolved Amber Acorn Blind Issue:** Previously, the mod incorrectly displayed stickers on both sides of the jokers, contrary to its intended design. This release fixes the issue by ensuring that stickers are visible only on the front side, even when encountering the Amber Acorn scenario. This update prevents players from unintentionally identifying jokers by the back-side stickers.
-**Adaptation to New Framework Changes:** Adjustments have been made to the mod's codebase to align with the latest changes in Balatro's framework, ensuring smooth integration and functionality.
+**Modded Jokers Error**: Fixed an error where modded jokers without names caused issues. This fix improves the stability and functionality of the mod.
 
 ## Installation
 To install the "Stickers Always Shown" mod, follow these steps:
 
-This mod requires [Steamodded](https://github.com/Steamopollys/Steamodded/).
-Just the download the "StickersAlwaysShown.zip" file from releases of the mod and extract it in your C:\Users<USER>\AppData\Roaming\Balatro\Mods or %appdata%\Balatro\Mods directory.
+1. This mod requires [Lovely-injector](https://github.com/ethangreen-dev/lovely-injector).
+2. Just the download the "StickersAlwaysShown.zip" file from releases of the mod and extract it in your C:\Users\<USER>\AppData\Roaming\Balatro\Mods or %appdata%\Balatro\Mods directory.

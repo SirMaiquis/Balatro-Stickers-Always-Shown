@@ -12,7 +12,7 @@ Welcome to the "Stickers Always Shown" mod repository for Balatro! This mod ensu
 
 To install the "Stickers Always Shown" mod, follow these steps:
 
-1. This mod requires [Steamodded](https://github.com/Steamopollys/Steamodded/).
+1. This mod requires [Lovely-injector](https://github.com/ethangreen-dev/lovely-injector).
 2. Just the download the "StickersAlwaysShown.zip" file from releases of the mod and extract it in your C:\Users\<USER>\AppData\Roaming\Balatro\Mods or %appdata%\Balatro\Mods directory.
 
 ## Usage
