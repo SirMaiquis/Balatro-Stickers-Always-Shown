@@ -29,4 +29,5 @@ Thank you for using or contributing to the Stickers Always Shown mod!
 
 Special thanks to the mod contributors:
 
-- [@stupxd](https://github.com/stupxd) - v1.3: Made the mod Steamodded independent! 🚀
+- [@SirMaiquis](https://github.com/SirMaiquis) - Main developer and maintainer of the mod.
+- [@stupxd](https://github.com/stupxd) - v1.3: Made the mod Steamodded independent from steamodded! 🚀

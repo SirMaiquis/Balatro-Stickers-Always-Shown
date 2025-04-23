@@ -1,12 +1,12 @@
-# Stickers Always Shown v1.3.0
+# Stickers Always Shown v1.4.0
 
-The mod no longer requires Steamodded, thanks to the contribution from [@stupxd](https://github.com/stupxd). This update also includes a fix for an error with modded jokers without names.
+This updates simply fix compatibility issues with the latest version of Balatro and Steamodded, even though the mod is now independent of Steamodded.
 
 ## Updates:
-**Steamodded Dependency Removed**: The mod is now independent of Steamodded, simplifying the installation process and improving compatibility.
+**Steamodded Compatibility**: The mod is now fully compatible with the latest version of Steamodded, ensuring a seamless experience for users who have both installed.
 
 ## Bug Fixes:
-**Modded Jokers Error**: Fixed an error where modded jokers without names caused issues. This fix improves the stability and functionality of the mod.
+***Eternal's Stickers Position**: The position of Eternal's stickers has been adjusted to the left, preventing any conflicts with completion stickers. This change enhances the overall user experience and ensures that all stickers are clearly visible.
 
 ## Installation
 To install the "Stickers Always Shown" mod, follow these steps:

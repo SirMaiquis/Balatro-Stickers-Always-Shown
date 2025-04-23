@@ -1,9 +1,9 @@
 {
     "name": "StickersAlwaysShown",
-    "version_number": "1.3.0",
+    "version_number": "1.4.0",
     "website_url": "https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown",
-    "description": "The jokers stickers are always shown!",
+    "description": "The jokers stickers are always shown! 🃏",
     "dependencies": [
-        "Thunderstore-lovely-0.4.0"
+        "Thunderstore-lovely-0.7.1"
     ]
 }
